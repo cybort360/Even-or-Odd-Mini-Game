@@ -77,3 +77,13 @@ h1 {
 section button {
   margin-left: 3rem;
 }
+
+@media (width < 700px) {
+  .result {
+    font-size: 4rem;
+  }
+  h1 {
+    font-size: 2rem;
+    top: 3.5rem;
+  }
+}
