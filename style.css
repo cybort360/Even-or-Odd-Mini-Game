@@ -73,6 +73,7 @@ h1 {
   cursor: pointer;
   background-color: transparent;
   border: 0.4rem solid #000;
+  color: #000;
 }
 
 section button {
